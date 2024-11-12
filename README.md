@@ -5,7 +5,7 @@ https://app.powerbi.com/links/vXn0hxWpaR?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95
 
 ## Project Summary
 ### Introduction
-This presentation provides a summary of insights extracted from the IMDb Movie Dataset, visualized using Power BI. The dashboard showcases various metrics and trends related to IMDb movies, including ratings, genres, and more.
+This project provides a summary of insights extracted from the IMDb Movie Dataset, visualized using Power BI. The dashboard showcases various metrics and trends related to IMDb movies, including ratings, genres, and more.
 
 ### Key Insights
 
