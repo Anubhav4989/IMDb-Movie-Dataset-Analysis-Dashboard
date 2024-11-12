@@ -1,4 +1,4 @@
-# IMDb Movie Dataset Analysis
+# IMDb Movie Dataset Analysis Dashboard
 
 ## Dashboard
 https://app.powerbi.com/links/vXn0hxWpaR?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare (Link to Dashboard)
