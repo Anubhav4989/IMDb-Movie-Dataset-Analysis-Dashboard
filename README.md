@@ -30,5 +30,5 @@ The IMDb Movie Dataset analysis provides valuable insights into the distribution
 - Thank you to the IMDb for providing the dataset.
 - Special thanks to the Power BI community for their resources and support.
 
-## Contact
-For inquiries or collaboration, please reach out to anubhavkumartiwary0109@gmail.com
+## About the Developer
+This project was developed by **Anubhav Kumar Tiwary**. If you have any questions or suggestions, feel free to reach out.
